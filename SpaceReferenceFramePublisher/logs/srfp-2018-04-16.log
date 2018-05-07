@@ -1,0 +1,6 @@
+2018-04-16 18:18:54.099 [main] INFO  skf.config.ConfigurationFactory - Importing the SFK configuration file
+2018-04-16 18:18:54.341 [main] INFO  skf.core.SEEAbstractFederateAmbassador - SEEAbstractFederateAmbassador Costruttore
+2018-04-16 18:18:54.677 [main] INFO  skf.core.SEEHLAModule - Connecting to HLA/RTI.
+2018-04-16 18:18:54.730 [main] INFO  skf.core.SEERTIAmbassador - Vendor HLA/RTI: name:pRTI 1516, rtiVersion: v5.3.2 , hlaVersion: HLA IEEE 1516-2010
+2018-04-16 18:18:55.353 [main] INFO  skf.core.SEEHLAModule - Loading FOMs modules.
+2018-04-16 18:18:55.356 [main] INFO  skf.core.SEEHLAModule - Join the federate ' SpaceReferenceFramePublisher ' into the Federation execution ' SEE 2018 '.
